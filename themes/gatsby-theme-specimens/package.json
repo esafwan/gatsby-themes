@@ -24,7 +24,7 @@
   "dependencies": {
     "@styled-system/css": "^5.1.5",
     "chroma-js": "^2.1.0",
-    "gatsby-plugin-typescript": "^2.9.0",
+    "gatsby-plugin-typescript": "^2.10.0",
     "polished": "^4.0.5"
   },
   "keywords": [
