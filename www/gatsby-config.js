@@ -19,7 +19,7 @@ module.exports = {
   },
   flags: {
     LAZY_IMAGES: true,
-    QUERY_ON_DEMAND: true,
+    QUERY_ON_DEMAND: false,
   },
   plugins: [
     {
